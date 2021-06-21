@@ -9,4 +9,4 @@
 ## Run application  
 - To start the application, cd into "C:\eYs3D" folder and double click DMPreview.exe
 
-![image](https://user-images.githubusercontent.com/13328289/122698138-4d054980-d279-11eb-8677-63fe6bc2a3f6.png)
+![image](https://user-images.githubusercontent.com/13328289/122698268-8f2e8b00-d279-11eb-90bb-cfa5371c77e9.png)
