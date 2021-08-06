@@ -1,12 +1,12 @@
 # eCaptureView_Windows
 ## Instll the eCaptureView into Windows OS.  
-- Double click eYs3DSetup.exe to install application.  
-![image](https://user-images.githubusercontent.com/13328289/120957792-e2d4ab00-c788-11eb-9cdb-caa58f632629.png)
-![image](https://user-images.githubusercontent.com/13328289/120957824-f7b13e80-c788-11eb-97bf-bef32a6bec4c.png)
-![image](https://user-images.githubusercontent.com/13328289/120957886-0f88c280-c789-11eb-933c-dbec73f48c34.png)
-![image](https://user-images.githubusercontent.com/13328289/120957912-1fa0a200-c789-11eb-87bb-4fba8a50f7e0.png)
+- Double click eCapture.exe to install application.  
+![step1](https://user-images.githubusercontent.com/88474678/128438614-2e97b167-b47f-4cf3-bcdd-c93b4d09cd22.png)
+![step2](https://user-images.githubusercontent.com/88474678/128438620-cff47428-57dd-4f84-91af-882003e7fe5f.png)
+![step3](https://user-images.githubusercontent.com/88474678/128438627-d6808ab7-2d7a-4321-aefc-aac16c5b169e.png)
+![step4](https://user-images.githubusercontent.com/88474678/128438633-fd5cf0bc-9f04-4180-8af1-0add7c302c4f.png)
 
 ## Run application  
-- To start the application, cd into "C:\eYs3D" folder and double click DMPreview.exe
+- To start the application, cd into "C:\eCapture" folder and double click DMPreview.exe
 
-![image](https://user-images.githubusercontent.com/13328289/122698268-8f2e8b00-d279-11eb-90bb-cfa5371c77e9.png)
+![step5](https://user-images.githubusercontent.com/88474678/128438640-ee64a527-bf26-4ab4-8395-8b3c96f1e028.png)
